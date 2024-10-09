@@ -1,0 +1,15 @@
+<configs>
+
+	<append xpath="/recipes"> <!-- Standard based on a Motorcycle Vehicle -->
+		
+		<recipe name="vehicleWheelchairPlaceable" count="1" craft_time="260" craft_area="workbench" tags="workbenchCrafting">
+			<ingredient name="vehicleWheels" count="4"/>
+			<ingredient name="wheelchairVariantHelper" count="1"/>
+			<ingredient name="vehicleBicycleHandlebars" count="1"/>
+			<ingredient name="smallEngine" count="1"/>
+			<ingredient name="carBattery" count="1"/>
+		</recipe>
+		
+	</append>
+
+</configs>

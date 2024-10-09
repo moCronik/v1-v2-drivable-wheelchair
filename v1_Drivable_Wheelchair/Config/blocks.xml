@@ -1,0 +1,29 @@
+<configs>
+
+<!-- Makes it so you can pick up vanilla wheelchairs  -->
+
+	<append xpath="/blocks/block[contains(@name,'wheelchair')]" >
+      	<property name="CanPickup" value="true" param1="wheelchairVariantHelper"/>
+    </append>
+	
+<!-- Adds wheelchair variant helper block -->
+
+	<append xpath="/blocks">
+
+		<block name="wheelchairVariantHelper">
+			<property name="Extends" value="wheelchairWhite"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="wheelchairWhite"/>
+			<property name="ItemTypeIcon" value="all_blocks"/>
+			<property name="DescriptionKey" value="wheelchairBlockVariantHelper"/>
+			<property name="SelectAlternates" value="true"/>
+			<property name="PlaceAltBlockValue" value="wheelchairWhite,wheelchairBrown,wheelchairRed,wheelchairYellow,wheelchairGreen,wheelchairBlue,wheelchairGrey,wheelchairBlack"/>
+			<property name="SortOrder1" value="U200"/>
+			<property name="SortOrder2" value="0000"/>
+			<property name="Group" value="Basics,Building,advBuilding"/>
+			<property name="FilterTags" value="MC_playerBlocks,SC_playerHelpers"/>
+		</block>
+		
+	</append>
+
+</configs>
