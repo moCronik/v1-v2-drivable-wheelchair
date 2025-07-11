@@ -8,7 +8,7 @@
 		<property name="cameraTurnRate" value=".2, .35"/>
 		<property name="upAngleMax" value="70"/>
 		<property name="upForce" value="1"/>
-		<property name="steerAngleMax" value="32"/>
+		<!-- <property name="steerAngleMax" value="60"/> -->
 		<property name="steerRate" value="130"/>
 		<property name="steerCenteringRate" value="90"/>
 		<property name="tiltAngleMax" value="80"/>
@@ -20,7 +20,7 @@
 		<property name="motorTorque_turbo" value="3500, 1500, 4500, 2000"/>
 		<property name="velocityMax_turbo" value="10, 8, 14, 10"/>
 		<property name="brakeTorque" value="6000"/>
-		<property name="hopForce" value="1.0, 0.25"/>
+		<property name="hopForce" value="1.5, 0.1"/>
 		<property name="unstickForce" value="1"/>
 		<property name="waterDrag_y_velScale_velMaxScale" value="1.8, .9, .1"/>
 		<property name="wheelPtlScale" value="1"/>

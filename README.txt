@@ -1,6 +1,6 @@
 # moCronik's v1+ Vanilla Drivable Wheelchair
 
-## Adds my Drivable Wheelchair and Logo mods to 7 Days to Die v1.
+## Adds my Drivable Wheelchair and Logo mods to 7 Days to Die v1+.
 1. mocronik_v1+_Drivable_Wheelchair
 2. moCronik_Logo
 
@@ -28,7 +28,7 @@ Works on single player games and dedicated servers, needs to be on server AND cl
 
 Update v1.0.420: Updated A21 model and xml to current v1 specs.
 
-Update v2.0.420: Updated logo to correct logo file and small xml edits for optimization.
+Update v2.0.420: Updated logo to correct logo file and small xml edits for optimization. Upped the durability of the wheelchair as it was too low and restored the bunny hop feature.
 
 ## Usage
 Free to use. No modification or using in other mod packs without consent please.
