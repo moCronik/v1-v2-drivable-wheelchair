@@ -1,0 +1,7 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+<!-- ###### moCronik's Logo NEW ###### -->
+moCronik_Logo,blocks,block,new,moCronik Logo,,,,,
+moCronik_LogoDesc,blocks,block,EnChanged, 1moCronik Logo,,,,,
+moCronik_LogoPlaceable,blocks,block,EnChanged,2moCronik's Logo,,,,,
+moCronik_LogoPlaceableDesc,blocks,block,EnChanged,3moCronik's Logo,,,,,

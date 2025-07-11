@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-    <Name value="v1-DrivableWheelchairTemplate" /> 
+    <Name value="v1-and-v2-DrivableWheelchair" /> 
     <DisplayName value="moCronik's driveable wheelchair vehicle" />
-    <Version value="1.4.20" compat="v1"/>
     <Description value="Adds moCronik's Wheelchair to the game" />
+    <Version value="2.0.420" />
     <Author value="moCronik" />
+	<Website value="https://www.youtube.com/@mocronik" />
 </xml>

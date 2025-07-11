@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<Name value="moCronik_Logo" />
-	<DisplayName value="moCronik Logo" />
+	<DisplayName value="moCronik's Logo" />
 	<Description value="For and awesome time place this block" />
+	<Version value="2.0.420" />
 	<Author value="moCronik" />
-	<Version value="1.0.420" />
 	<Website value="https://www.youtube.com/@mocronik" />
-	<SkipWithAntiCheat value="true" />
+	<!-- <SkipWithAntiCheat value="true" /> -->
 </xml>

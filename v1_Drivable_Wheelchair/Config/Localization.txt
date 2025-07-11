@@ -1,7 +1,0 @@
-Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
-
-<!-- ###### VEHICLE NEW ###### -->
-vehicleWheelchair,vehicles,vehicle,new, Driveable Wheelchair,,,,,
-vehicleWheelchairPlaceable,vehicles,item,EnChanged, Driveable Wheelchair,,,,,
-vehicleWheelchairPlaceableDesc,vehicles,item,EnChanged,Everybody equally needs to get around and fight the zombies,,,,,
-wheelchairBlockVariantHelper,vehicles,item,EnChanged,Adds a drivable wheelchair,,,,,

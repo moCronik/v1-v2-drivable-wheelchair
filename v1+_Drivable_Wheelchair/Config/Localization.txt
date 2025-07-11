@@ -1,0 +1,7 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+<!-- ###### VEHICLE NEW ###### -->
+vehicleWheelchair,vehicles,vehicle,new,moCronik's Driveable Wheelchair,,,,,
+vehicleWheelchairPlaceable,vehicles,item,EnChanged,moCronik's Driveable Wheelchair,,,,,
+vehicleWheelchairPlaceableDesc,vehicles,item,EnChanged,Everybody equally needs to get around and fight the zombies. Try it just like moCronik!,,,,,
+wheelchairBlockVariantHelper,vehicles,item,EnChanged,A wheelchair you found in the wild. Now what to do with this cool device...,,,,,
