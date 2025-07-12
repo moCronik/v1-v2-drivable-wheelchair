@@ -1,4 +1,4 @@
-# moCronik's v1+ Vanilla Drivable Wheelchair
+# moCronik's v1+ Drivable Wheelchair
 
 ## Adds my Drivable Wheelchair and Logo mods to 7 Days to Die v1+.
 1. mocronik_v1+_Drivable_Wheelchair
